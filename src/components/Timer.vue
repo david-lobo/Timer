@@ -67,7 +67,7 @@
 				showTimeInputs: false,
 				timeInputs: null,
 				alarm: null,
-				alarmUrl: "/beep-07.wav",
+				alarmUrl: "./../beep-07.wav",
 				timerInterval: null,
 				muted: false,
 				started: false,
