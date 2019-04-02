@@ -1,4 +1,4 @@
-# timer
+# Timer
 
 Minimal Online Timer in your Browser Tab. 
 
