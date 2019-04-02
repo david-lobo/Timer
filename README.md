@@ -1,5 +1,10 @@
 # timer
 
+Minimal Online Timer in your Browser Tab.
+
+[Demo](https://david-lobo.github.io/Timer/dist/).
+
+
 ## Project setup
 ```
 npm install
