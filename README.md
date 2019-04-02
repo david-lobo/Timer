@@ -1,6 +1,8 @@
 # timer
 
-Minimal Online Timer in your Browser Tab.
+Minimal Online Timer in your Browser Tab. 
+
+Built with VueJS, VueCLI, Bootstrap 4
 
 [Demo](https://david-lobo.github.io/Timer/dist/).
 
